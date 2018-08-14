@@ -11,7 +11,7 @@
 bl_info = {
     "name": "Mesh Cleaner",
     "author": "Greenbaburu",
-    "version": (1, 0),
+    "version": (0, 1),
     "blender": (2, 79, 0),
     "location": "View3D > Tools > Mesh Cleaner",
     "description": "Adds a new Mesh Object",
