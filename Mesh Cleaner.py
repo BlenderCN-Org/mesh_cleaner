@@ -11,7 +11,7 @@
 bl_info = {
     "name": "Mesh Cleaner",
     "author": "Greenbaburu",
-    "version": (0, 1),
+    "version": (0, 1, 0),
     "blender": (2, 79, 0),
     "location": "View3D > Tools > Mesh Cleaner",
     "description": "Clean the mesh",
