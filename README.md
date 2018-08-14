@@ -1,4 +1,4 @@
-# Mesh-Cleaner
+# mesh_cleaner
 Blender Addon - mesh cleaner
 
 Why?
